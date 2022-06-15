@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GithubUserAppV2</string>
+    <string name="search">search</string>
+    <string name="search_hint">Cari user</string>
+    <string name="name">Budi setiawan</string>
+    <string name="user_name">budigaol123</string>
+    <string name="location">Jakarta, Indonesia</string>
+    <string name="review">Cari User</string>
+    <string name="not_found">Not Found :(</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="tio_ramadhan">Tio Ramadhan</string>
+    <string name="tioramadhn">\@tioramadhn</string>
+    <string name="pekanbaru_riau_indonesia">Pekanbaru, Riau, Indonesia</string>
+    <string name="pt_google">PT. Google</string>
+    <string name="dumy_count">15</string>
+    <string name="repository">Repository</string>
+    <string name="follow">Follow</string>
+    <string name="send_message">Send Message</string>
+    <string name="detail_image">detail image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Repository</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="tab_text_3">Following</string>
+    <string name="from_fragment_followers">ini fragments followers</string>
+    <string name="guide">Ketuk tombol cari untuk mencari user :D</string>
+    <string name="fav">favorite</string>
+    <string name="tidak_ada_followers">Tidak ada Followers</string>
+    <string name="tidak_ada_mengikut_siapapun">Tidak ada Following</string>
+    <string name="menu_1">Favorite</string>
+    <string name="menu_2">theme</string>
+    <string name="belum_ada_user_favorite">Belum ada user favorite</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
